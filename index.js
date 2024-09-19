@@ -9,7 +9,7 @@ let transparentColor = 'transparent'
 let recordFlag = false
 
 let constants = {
-    audio: false,
+    audio: true,
     video: true,
 }
 // navigator is a global obj where this gives info about to browser 
